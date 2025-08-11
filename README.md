@@ -1,6 +1,6 @@
 # Json to Text Converter
 
-A simple (I'm lazy) **Java Swing** desktop application that imports JSON files, converts them into plain text for easier reading, and allows exporting the result.
+A simple (Because I'm lazy) **Java Swing** desktop application that imports JSON files, converts them into plain text for easier reading, and allows exporting the result.
 Built with [`org.json`](https://stleary.github.io/JSON-java/) for JSON parsing.
 
 ---
@@ -16,17 +16,17 @@ Built with [`org.json`](https://stleary.github.io/JSON-java/) for JSON parsing.
 ## ✨ Features
 
 * :ballot_box:  **Import JSON** from file
-* :tv: :pencil: **View and edit** JSON content in a text area
-* **Convert JSON** into a readable plain text format
+* :pencil: **View and edit** JSON content in a text area
+* :repeat: **Convert JSON** into a readable plain text format
 * :floppy_disk:  **Export results** to a text file
-* **Help & About** menus for quick guidance
+* :bulb: **Help & About** menus for quick guidance
 
 ---
 
 ## 🛠 Requirements
 
-* **Java 21+**
-* [`org.json`](https://stleary.github.io/JSON-java/) library (JSON-java)
+* :coffee: **Java 21+**
+* :books: [`org.json`](https://stleary.github.io/JSON-java/) library (JSON-java)
 
 ---
 
