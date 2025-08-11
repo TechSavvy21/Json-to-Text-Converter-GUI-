@@ -15,7 +15,7 @@ Built with [`org.json`](https://stleary.github.io/JSON-java/) for JSON parsing.
 
 ## ✨ Features
 
-* **Import JSON** from file
+:ballot_box:  * **Import JSON** from file
 * **View and edit** JSON content in a text area
 * **Convert JSON** into a readable plain text format
 * **Export results** to a text file
