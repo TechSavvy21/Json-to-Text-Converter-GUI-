@@ -102,7 +102,7 @@ skills: Java, Python, JavaScript
 ## ⚠️ Known Issues
 
 * Large JSON files may cause the UI to freeze temporarily.
-* Malformed JSON may not show an error dialog.
+* Malformed JSON may not show an error dialog. \(Use it at your own risk\!\)
 
 ---
 
