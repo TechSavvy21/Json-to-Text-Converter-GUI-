@@ -1,15 +1,14 @@
 # Json to Text Converter
 
 A simple (Because I'm lazy to make it not simple) **Java Swing** desktop application that imports JSON files, converts them into plain text for easier reading, and allows exporting the result.
-Built with [`org.json`](https://stleary.github.io/JSON-java/) for JSON parsing.<img width="782" height="618" alt="screenshot" src="https://github.com/user-attachments/assets/5b6111d9-83ac-4ba2-9f59-418b16ba61c6" />
-
+Built with [`org.json`](https://stleary.github.io/JSON-java/) for JSON parsing.
 
 ---
 
 ## 📸 Screenshot
 
 ```md
-![Json to Text Converter Screenshot](screenshot.png)
+<img width="782" height="618" alt="screenshot" src="https://github.com/user-attachments/assets/5b6111d9-83ac-4ba2-9f59-418b16ba61c6" />
 ```
 
 ---
