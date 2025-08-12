@@ -4,15 +4,6 @@ A simple (Because I'm lazy to make it not simple) **Java Swing** desktop applica
 Built with [`org.json`](https://stleary.github.io/JSON-java/) for JSON parsing.
 
 ---
-
-## 📸 Screenshot
-
-```md
-<img width="782" height="618" alt="screenshot" src="https://github.com/user-attachments/assets/5b6111d9-83ac-4ba2-9f59-418b16ba61c6" />
-```
-
----
-
 ## ✨ Features
 
 * :ballot_box: **Import JSON** from file
