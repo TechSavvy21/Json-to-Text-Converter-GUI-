@@ -15,10 +15,10 @@ Built with [`org.json`](https://stleary.github.io/JSON-java/) for JSON parsing.
 
 ## ✨ Features
 
-* :ballot_box:  **Import JSON** from file
+* :ballot_box: **Import JSON** from file
 * :pencil: **View and edit** JSON content in a text area
 * :repeat: **Convert JSON** into a readable plain text format
-* :floppy_disk:  **Export results** to a text file
+* :floppy_disk: **Export results** to a text file
 * :bulb: **Help & About** menus for quick guidance
 
 ---
