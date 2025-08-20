@@ -63,6 +63,8 @@ public class JsonTextConverter extends JFrame implements ActionListener {
         fileMenu.add(exportPlainTextItem);
         fileMenu.add(exitItem);
 
+        helpMenu.add(aboutItem);
+
         setJMenuBar(menuBar);
 
         jsonInputArea = new JTextArea(15, 40);
