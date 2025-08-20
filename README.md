@@ -16,13 +16,12 @@ Built with [`org.json`](https://stleary.github.io/JSON-java/) for JSON parsing.
 ## 🛠 Requirements
 
 * :coffee: **Java 21+**
-* :books: [`org.json`](https://stleary.github.io/JSON-java/) library (JSON-java)
 
 ---
 
 ## 📦 Installation
 
-1. Download [`json.jar`](https://mvnrepository.com/artifact/org.json/json).
+1. Download the precompiled files in [`releases`](https://github.com/TechSavvy21/Json-to-Text-Converter-GUI-/releases).
 2. Unpack the zip file
 
 ---
