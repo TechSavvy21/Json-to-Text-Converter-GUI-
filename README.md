@@ -1,6 +1,6 @@
 # Json to Text Converter
 
-A simple (Because I'm lazy to make it not simple) **Java Swing** desktop application that imports JSON files, converts them into plain text for easier reading, and allows exporting the result.
+A simple (Because I'm too lazy to make it not simple) **Java Swing** desktop application that imports JSON files, converts them into plain text for easier reading, and allows exporting the result.
 Built with [`org.json`](https://stleary.github.io/JSON-java/) for JSON parsing.
 
 ---
@@ -22,25 +22,8 @@ Built with [`org.json`](https://stleary.github.io/JSON-java/) for JSON parsing.
 
 ## 📦 Installation
 
-**Using Maven**
-
-```xml
-<dependency>
-    <groupId>org.json</groupId>
-    <artifactId>json</artifactId>
-    <version>20240303</version>
-</dependency>
-```
-
-**Manual JAR**
-
 1. Download [`json.jar`](https://mvnrepository.com/artifact/org.json/json).
-2. Add it to your classpath:
-
-   ```bash
-   javac -cp json.jar JsonTextConverter.java
-   java -cp .:json.jar JsonTextConverter
-   ```
+2. Unpack the zip file
 
 ---
 
@@ -49,8 +32,10 @@ Built with [`org.json`](https://stleary.github.io/JSON-java/) for JSON parsing.
 1. Run the application:
 
    ```bash
-   java -cp .:json.jar JsonTextConverter
+   java -jar JsonToTextConverter.jar
    ```
+   or double-clicks the jar file
+   
 2. Click **File → Import** to open a JSON file.
 3. Click **Convert** to format it into plain text.
 4. Click **File → Export** to save the output.
