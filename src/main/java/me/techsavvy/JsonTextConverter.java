@@ -20,7 +20,7 @@ public class JsonTextConverter extends JFrame implements ActionListener {
     private JButton convertButton; // convert button
     private JMenuBar menuBar; // menu bar
     private JMenu fileMenu, helpMenu;
-    private JMenuItem importJsonItem, exportPlainTextItem, exitItem, aboutItem, howToUseItem; // menu options
+    private JMenuItem importJsonItem, exportPlainTextItem, exitItem, aboutItem; // menu options
 
     // IO components
     private BufferedReader fileReader; // file reader
@@ -46,9 +46,6 @@ public class JsonTextConverter extends JFrame implements ActionListener {
         aboutItem = new JMenuItem("About");
         aboutItem.addActionListener(this);
 
-        howToUseItem = new JMenuItem("How To Use");
-        howToUseItem.addActionListener(this);
-
         // basic JFrame configs
         setTitle("JsonText Converter");
         setSize(800, 630);
@@ -65,9 +62,6 @@ public class JsonTextConverter extends JFrame implements ActionListener {
         fileMenu.add(importJsonItem);
         fileMenu.add(exportPlainTextItem);
         fileMenu.add(exitItem);
-
-        helpMenu.add(aboutItem);
-        helpMenu.add(howToUseItem);
 
         setJMenuBar(menuBar);
 
